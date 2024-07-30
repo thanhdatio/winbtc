@@ -1,1 +1,1 @@
-const subscribers = ["particinpant 1","particinpant 2","particinpant 3","particinpant 4","particinpant 5"];
+const subscribers = ["Mystery Box 1","Mystery Box 2","Mystery Box 3","Mystery Box 4","Mystery Box 5"];
