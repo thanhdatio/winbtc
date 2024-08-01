@@ -1,1 +1,1 @@
-const subscribers = ["Mystery Box 1","Mystery Box 2","Mystery Box 3","Mystery Box 4","Mystery Box 5","Mystery Box 6","Mystery Box 7","Mystery Box 8","Mystery Box 9","Mystery Box 0"];
+const subscribers = ["Lucky code: DA2C1, 0.1 BTC","Lucky code: CCC02, 0.2 BTC","Lucky code: FFA03, 0.3 BTC","Lucky code: EE2A4, 0.4 BTC","Lucky code: CBA35, 0.5 BTC","Lucky code: EF076, 0.6 BTC","Lucky code: AFCA7, 0.7 BTC","Lucky code: ACD68, 0.8 BTC","Lucky code: DC2A9, 0.9 BTC"];
